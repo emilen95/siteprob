@@ -54,6 +54,13 @@ html{
      body {font-size: 100%;}
 		
 	} */
+@media screen and (max-width: 900px){
+	img{
+		width: 50%;
+		height: 50%;
+	}
+	
+}
 .container {
 	display:block;
 	max-width: 1440px;
