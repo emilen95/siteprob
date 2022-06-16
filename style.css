@@ -58,8 +58,7 @@ html{
 	img{
 		width: 50%;
 		height: 50%;
-	}
-	
+	}	
 }
 
 .container {
@@ -463,9 +462,5 @@ footer p{
 	padding: 32px 0 26px 13%;
 }
 /* ___________________кнопка перехода вверх страницы_____________ */
-.button_top{
-	position: fixed;
-	bottom: 60px;
-	right:20px;
-}
+
 
