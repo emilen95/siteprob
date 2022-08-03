@@ -4,4 +4,4 @@ function toggleWAI(){
     el.classList.toggle("wai_onclick");
 }
 el.onclick = toggleWAI;
-console.log("Hi")
+console.log("Hi");
